@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">YrApp</string>
+    <string name="location_placeholder">Finding location</string>
+    <string name="weather.search_city">Search city</string>
+    <string name="weather.refresh">Refresh</string>
+    <string name="dialog.city.header">Velg din by</string>
+    <string name="dialog.city.pattern">Skriv inn navnet</string>
+    <string name="action_settings">Settings</string>
+</resources>
